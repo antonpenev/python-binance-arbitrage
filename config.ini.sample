@@ -1,0 +1,9 @@
+[all]
+API_KEY = BINANCE_API_KEY
+API_SECRET = BINANCE_API_SECRET
+markets = USDT ETH BTC
+order_value = 20
+min_spread = 0.15
+main_wallet = ETH
+test_mode = true
+debug = true
